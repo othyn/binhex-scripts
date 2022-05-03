@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# https://forums.unraid.net/topic/93965-script-binhex-no_ransomsh/
+# https://github.com/binhex/scripts/blob/master/shell/unraid/system/no_ransom/no_ransom.sh
+# https://github.com/othyn/binhex-scripts/edit/master/shell/unraid/system/no_ransom/no_ransom.sh
+
 # A simple bash script to make selected media read only, to prevent
 # any possible Ransomware attacks.
 #
